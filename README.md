@@ -1,2 +1,0 @@
-# I-neuron-
-for assignment 
